@@ -1,0 +1,501 @@
+OrderID,OrderDate,Product,Category,City,Quantity,Price,Revenue
+ORD-1001,1/1/2023,Office Chair,Furniture,Chennai,4,6999,27996
+ORD-1002,1/1/2023,Office Chair,Furniture,Chennai,3,6999,20997
+ORD-1003,1/2/2023,Notebook,Stationery,Bangalore,2,149,298
+ORD-1004,1/3/2023,Office Chair,Furniture,Bangalore,3,6999,20997
+ORD-1005,1/3/2023,Desk Lamp,Furniture,Pune,5,2499,12495
+ORD-1006,1/4/2023,Desk Lamp,Furniture,Hyderabad,3,2499,7497
+ORD-1007,1/5/2023,Notebook,Stationery,Pune,2,149,298
+ORD-1008,1/6/2023,Pen Pack,Stationery,Pune,2,199,398
+ORD-1009,1/6/2023,Notebook,Stationery,Pune,1,149,149
+ORD-1010,1/7/2023,Keyboard,Electronics,Pune,5,1299,6495
+ORD-1011,1/8/2023,Wireless Mouse,Electronics,Bangalore,1,799,799
+ORD-1012,1/9/2023,Laptop Stand,Accessories,Pune,2,999,1998
+ORD-1013,1/9/2023,USB Cable,Accessories,Pune,3,299,897
+ORD-1014,1/10/2023,Office Chair,Furniture,Delhi,4,6999,27996
+ORD-1015,1/11/2023,Laptop Stand,Accessories,Bangalore,5,999,4995
+ORD-1016,1/11/2023,Office Chair,Furniture,Delhi,5,6999,34995
+ORD-1017,1/12/2023,Office Chair,Furniture,Pune,2,6999,13998
+ORD-1018,1/13/2023,Wireless Mouse,Electronics,Hyderabad,4,799,3196
+ORD-1019,1/14/2023,Keyboard,Electronics,Delhi,2,1299,2598
+ORD-1020,1/14/2023,Keyboard,Electronics,Mumbai,5,1299,6495
+ORD-1021,1/15/2023,USB Cable,Accessories,Pune,4,299,1196
+ORD-1022,1/16/2023,Office Chair,Furniture,Chennai,4,6999,27996
+ORD-1023,1/17/2023,Desk Lamp,Furniture,Hyderabad,3,2499,7497
+ORD-1024,1/17/2023,Wireless Mouse,Electronics,Mumbai,4,799,3196
+ORD-1025,1/18/2023,Desk Lamp,Furniture,Mumbai,4,2499,9996
+ORD-1026,1/19/2023,Pen Pack,Stationery,Pune,2,199,398
+ORD-1027,1/19/2023,Pen Pack,Stationery,Mumbai,5,199,995
+ORD-1028,1/20/2023,Keyboard,Electronics,Mumbai,4,1299,5196
+ORD-1029,1/21/2023,Keyboard,Electronics,Hyderabad,4,1299,5196
+ORD-1030,1/22/2023,Office Chair,Furniture,Delhi,4,6999,27996
+ORD-1031,1/22/2023,Pen Pack,Stationery,Chennai,5,199,995
+ORD-1032,1/23/2023,Keyboard,Electronics,Mumbai,5,1299,6495
+ORD-1033,1/24/2023,Wireless Mouse,Electronics,Pune,4,799,3196
+ORD-1034,1/25/2023,USB Cable,Accessories,Delhi,5,299,1495
+ORD-1035,1/25/2023,Notebook,Stationery,Delhi,5,149,745
+ORD-1036,1/26/2023,Wireless Mouse,Electronics,Delhi,1,799,799
+ORD-1037,1/27/2023,USB Cable,Accessories,Bangalore,3,299,897
+ORD-1038,1/27/2023,Wireless Mouse,Electronics,Bangalore,3,799,2397
+ORD-1039,1/28/2023,Wireless Mouse,Electronics,Chennai,3,799,2397
+ORD-1040,1/29/2023,Keyboard,Electronics,Delhi,2,1299,2598
+ORD-1041,1/30/2023,USB Cable,Accessories,Pune,1,299,299
+ORD-1042,1/30/2023,Keyboard,Electronics,Hyderabad,1,1299,1299
+ORD-1043,1/31/2023,Desk Lamp,Furniture,Bangalore,5,2499,12495
+ORD-1044,2/1/2023,USB Cable,Accessories,Bangalore,3,299,897
+ORD-1045,2/2/2023,Wireless Mouse,Electronics,Chennai,3,799,2397
+ORD-1046,2/2/2023,Office Chair,Furniture,Delhi,3,6999,20997
+ORD-1047,2/3/2023,Notebook,Stationery,Hyderabad,2,149,298
+ORD-1048,2/4/2023,Office Chair,Furniture,Delhi,3,6999,20997
+ORD-1049,2/5/2023,Office Chair,Furniture,Mumbai,2,6999,13998
+ORD-1050,2/5/2023,USB Cable,Accessories,Bangalore,5,299,1495
+ORD-1051,2/6/2023,Office Chair,Furniture,Pune,1,6999,6999
+ORD-1052,2/7/2023,Notebook,Stationery,Hyderabad,4,149,596
+ORD-1053,2/7/2023,Notebook,Stationery,Bangalore,5,149,745
+ORD-1054,2/8/2023,Notebook,Stationery,Chennai,4,149,596
+ORD-1055,2/9/2023,Desk Lamp,Furniture,Bangalore,3,2499,7497
+ORD-1056,2/10/2023,Pen Pack,Stationery,Mumbai,4,199,796
+ORD-1057,2/10/2023,Keyboard,Electronics,Hyderabad,5,1299,6495
+ORD-1058,2/11/2023,Wireless Mouse,Electronics,Hyderabad,5,799,3995
+ORD-1059,2/12/2023,USB Cable,Accessories,Pune,4,299,1196
+ORD-1060,2/13/2023,USB Cable,Accessories,Hyderabad,4,299,1196
+ORD-1061,2/13/2023,Pen Pack,Stationery,Mumbai,3,199,597
+ORD-1062,2/14/2023,Office Chair,Furniture,Delhi,4,6999,27996
+ORD-1063,2/15/2023,Office Chair,Furniture,Delhi,1,6999,6999
+ORD-1064,2/15/2023,Wireless Mouse,Electronics,Hyderabad,3,799,2397
+ORD-1065,2/16/2023,Wireless Mouse,Electronics,Chennai,4,799,3196
+ORD-1066,2/17/2023,Wireless Mouse,Electronics,Hyderabad,3,799,2397
+ORD-1067,2/18/2023,Desk Lamp,Furniture,Delhi,3,2499,7497
+ORD-1068,2/18/2023,Pen Pack,Stationery,Delhi,5,199,995
+ORD-1069,2/19/2023,Laptop Stand,Accessories,Pune,2,999,1998
+ORD-1070,2/20/2023,Desk Lamp,Furniture,Hyderabad,3,2499,7497
+ORD-1071,2/21/2023,Desk Lamp,Furniture,Pune,1,2499,2499
+ORD-1072,2/21/2023,Wireless Mouse,Electronics,Mumbai,1,799,799
+ORD-1073,2/22/2023,USB Cable,Accessories,Hyderabad,4,299,1196
+ORD-1074,2/23/2023,Office Chair,Furniture,Bangalore,2,6999,13998
+ORD-1075,2/23/2023,Wireless Mouse,Electronics,Delhi,5,799,3995
+ORD-1076,2/24/2023,Desk Lamp,Furniture,Bangalore,1,2499,2499
+ORD-1077,2/25/2023,Wireless Mouse,Electronics,Mumbai,2,799,1598
+ORD-1078,2/26/2023,USB Cable,Accessories,Delhi,5,299,1495
+ORD-1079,2/26/2023,Wireless Mouse,Electronics,Hyderabad,3,799,2397
+ORD-1080,2/27/2023,Keyboard,Electronics,Pune,5,1299,6495
+ORD-1081,2/28/2023,Keyboard,Electronics,Bangalore,4,1299,5196
+ORD-1082,3/1/2023,Desk Lamp,Furniture,Delhi,3,2499,7497
+ORD-1083,3/1/2023,Office Chair,Furniture,Pune,5,6999,34995
+ORD-1084,3/2/2023,Keyboard,Electronics,Delhi,3,1299,3897
+ORD-1085,3/3/2023,Wireless Mouse,Electronics,Bangalore,4,799,3196
+ORD-1086,3/4/2023,Pen Pack,Stationery,Bangalore,5,199,995
+ORD-1087,3/4/2023,USB Cable,Accessories,Bangalore,4,299,1196
+ORD-1088,3/5/2023,USB Cable,Accessories,Mumbai,3,299,897
+ORD-1089,3/6/2023,Laptop Stand,Accessories,Pune,3,999,2997
+ORD-1090,3/6/2023,Desk Lamp,Furniture,Delhi,4,2499,9996
+ORD-1091,3/7/2023,Wireless Mouse,Electronics,Delhi,2,799,1598
+ORD-1092,3/8/2023,Laptop Stand,Accessories,Delhi,4,999,3996
+ORD-1093,3/9/2023,Wireless Mouse,Electronics,Hyderabad,2,799,1598
+ORD-1094,3/9/2023,Keyboard,Electronics,Pune,3,1299,3897
+ORD-1095,3/10/2023,Desk Lamp,Furniture,Delhi,2,2499,4998
+ORD-1096,3/11/2023,USB Cable,Accessories,Delhi,4,299,1196
+ORD-1097,3/12/2023,Keyboard,Electronics,Hyderabad,1,1299,1299
+ORD-1098,3/12/2023,USB Cable,Accessories,Chennai,5,299,1495
+ORD-1099,3/13/2023,Desk Lamp,Furniture,Delhi,3,2499,7497
+ORD-1100,3/14/2023,Wireless Mouse,Electronics,Bangalore,3,799,2397
+ORD-1101,3/14/2023,Desk Lamp,Furniture,Pune,3,2499,7497
+ORD-1102,3/15/2023,Desk Lamp,Furniture,Pune,1,2499,2499
+ORD-1103,3/16/2023,Laptop Stand,Accessories,Pune,1,999,999
+ORD-1104,3/17/2023,Pen Pack,Stationery,Hyderabad,4,199,796
+ORD-1105,3/17/2023,Laptop Stand,Accessories,Bangalore,1,999,999
+ORD-1106,3/18/2023,Wireless Mouse,Electronics,Mumbai,5,799,3995
+ORD-1107,3/19/2023,Desk Lamp,Furniture,Mumbai,2,2499,4998
+ORD-1108,3/20/2023,Pen Pack,Stationery,Chennai,3,199,597
+ORD-1109,3/20/2023,Wireless Mouse,Electronics,Delhi,4,799,3196
+ORD-1110,3/21/2023,USB Cable,Accessories,Hyderabad,1,299,299
+ORD-1111,3/22/2023,Notebook,Stationery,Bangalore,4,149,596
+ORD-1112,3/22/2023,Wireless Mouse,Electronics,Pune,1,799,799
+ORD-1113,3/23/2023,Laptop Stand,Accessories,Hyderabad,3,999,2997
+ORD-1114,3/24/2023,Office Chair,Furniture,Bangalore,5,6999,34995
+ORD-1115,3/25/2023,Pen Pack,Stationery,Bangalore,3,199,597
+ORD-1116,3/25/2023,Keyboard,Electronics,Hyderabad,5,1299,6495
+ORD-1117,3/26/2023,Wireless Mouse,Electronics,Delhi,4,799,3196
+ORD-1118,3/27/2023,Notebook,Stationery,Chennai,4,149,596
+ORD-1119,3/28/2023,Desk Lamp,Furniture,Pune,3,2499,7497
+ORD-1120,3/28/2023,Laptop Stand,Accessories,Delhi,1,999,999
+ORD-1121,3/29/2023,USB Cable,Accessories,Hyderabad,4,299,1196
+ORD-1122,3/30/2023,Notebook,Stationery,Hyderabad,5,149,745
+ORD-1123,3/30/2023,Laptop Stand,Accessories,Delhi,4,999,3996
+ORD-1124,3/31/2023,Notebook,Stationery,Delhi,5,149,745
+ORD-1125,4/1/2023,Pen Pack,Stationery,Bangalore,5,199,995
+ORD-1126,4/2/2023,USB Cable,Accessories,Pune,1,299,299
+ORD-1127,4/2/2023,Office Chair,Furniture,Chennai,5,6999,34995
+ORD-1128,4/3/2023,Desk Lamp,Furniture,Bangalore,1,2499,2499
+ORD-1129,4/4/2023,Desk Lamp,Furniture,Delhi,2,2499,4998
+ORD-1130,4/5/2023,Keyboard,Electronics,Bangalore,2,1299,2598
+ORD-1131,4/5/2023,Desk Lamp,Furniture,Hyderabad,2,2499,4998
+ORD-1132,4/6/2023,Office Chair,Furniture,Bangalore,2,6999,13998
+ORD-1133,4/7/2023,Keyboard,Electronics,Mumbai,2,1299,2598
+ORD-1134,4/8/2023,Wireless Mouse,Electronics,Delhi,1,799,799
+ORD-1135,4/8/2023,Laptop Stand,Accessories,Mumbai,5,999,4995
+ORD-1136,4/9/2023,Office Chair,Furniture,Bangalore,2,6999,13998
+ORD-1137,4/10/2023,Keyboard,Electronics,Chennai,1,1299,1299
+ORD-1138,4/10/2023,USB Cable,Accessories,Delhi,2,299,598
+ORD-1139,4/11/2023,USB Cable,Accessories,Pune,5,299,1495
+ORD-1140,4/12/2023,Wireless Mouse,Electronics,Bangalore,4,799,3196
+ORD-1141,4/13/2023,Office Chair,Furniture,Mumbai,4,6999,27996
+ORD-1142,4/13/2023,Keyboard,Electronics,Delhi,3,1299,3897
+ORD-1143,4/14/2023,Keyboard,Electronics,Hyderabad,5,1299,6495
+ORD-1144,4/15/2023,Keyboard,Electronics,Hyderabad,2,1299,2598
+ORD-1145,4/16/2023,Wireless Mouse,Electronics,Mumbai,4,799,3196
+ORD-1146,4/16/2023,Pen Pack,Stationery,Pune,3,199,597
+ORD-1147,4/17/2023,Notebook,Stationery,Chennai,1,149,149
+ORD-1148,4/18/2023,USB Cable,Accessories,Pune,4,299,1196
+ORD-1149,4/18/2023,Notebook,Stationery,Hyderabad,4,149,596
+ORD-1150,4/19/2023,Notebook,Stationery,Hyderabad,4,149,596
+ORD-1151,4/20/2023,Office Chair,Furniture,Pune,3,6999,20997
+ORD-1152,4/21/2023,Desk Lamp,Furniture,Mumbai,5,2499,12495
+ORD-1153,4/21/2023,USB Cable,Accessories,Hyderabad,2,299,598
+ORD-1154,4/22/2023,Laptop Stand,Accessories,Bangalore,1,999,999
+ORD-1155,4/23/2023,USB Cable,Accessories,Mumbai,2,299,598
+ORD-1156,4/24/2023,Notebook,Stationery,Chennai,2,149,298
+ORD-1157,4/24/2023,Pen Pack,Stationery,Pune,1,199,199
+ORD-1158,4/25/2023,Notebook,Stationery,Mumbai,1,149,149
+ORD-1159,4/26/2023,Keyboard,Electronics,Mumbai,1,1299,1299
+ORD-1160,4/26/2023,Desk Lamp,Furniture,Chennai,1,2499,2499
+ORD-1161,4/27/2023,Notebook,Stationery,Chennai,1,149,149
+ORD-1162,4/28/2023,Office Chair,Furniture,Hyderabad,5,6999,34995
+ORD-1163,4/29/2023,Notebook,Stationery,Pune,3,149,447
+ORD-1164,4/29/2023,Keyboard,Electronics,Chennai,3,1299,3897
+ORD-1165,4/30/2023,Pen Pack,Stationery,Chennai,1,199,199
+ORD-1166,5/1/2023,Pen Pack,Stationery,Chennai,4,199,796
+ORD-1167,5/2/2023,Office Chair,Furniture,Hyderabad,1,6999,6999
+ORD-1168,5/2/2023,Pen Pack,Stationery,Chennai,4,199,796
+ORD-1169,5/3/2023,USB Cable,Accessories,Mumbai,2,299,598
+ORD-1170,5/4/2023,Desk Lamp,Furniture,Pune,5,2499,12495
+ORD-1171,5/5/2023,Wireless Mouse,Electronics,Mumbai,5,799,3995
+ORD-1172,5/5/2023,Keyboard,Electronics,Pune,5,1299,6495
+ORD-1173,5/6/2023,Keyboard,Electronics,Mumbai,4,1299,5196
+ORD-1174,5/7/2023,Keyboard,Electronics,Mumbai,3,1299,3897
+ORD-1175,5/7/2023,Desk Lamp,Furniture,Chennai,1,2499,2499
+ORD-1176,5/8/2023,Notebook,Stationery,Mumbai,4,149,596
+ORD-1177,5/9/2023,Wireless Mouse,Electronics,Bangalore,4,799,3196
+ORD-1178,5/10/2023,USB Cable,Accessories,Mumbai,4,299,1196
+ORD-1179,5/10/2023,Laptop Stand,Accessories,Delhi,4,999,3996
+ORD-1180,5/11/2023,Wireless Mouse,Electronics,Bangalore,5,799,3995
+ORD-1181,5/12/2023,Laptop Stand,Accessories,Pune,5,999,4995
+ORD-1182,5/13/2023,Laptop Stand,Accessories,Delhi,1,999,999
+ORD-1183,5/13/2023,Desk Lamp,Furniture,Bangalore,2,2499,4998
+ORD-1184,5/14/2023,USB Cable,Accessories,Chennai,5,299,1495
+ORD-1185,5/15/2023,USB Cable,Accessories,Chennai,2,299,598
+ORD-1186,5/15/2023,Laptop Stand,Accessories,Bangalore,2,999,1998
+ORD-1187,5/16/2023,Office Chair,Furniture,Mumbai,1,6999,6999
+ORD-1188,5/17/2023,Desk Lamp,Furniture,Mumbai,5,2499,12495
+ORD-1189,5/18/2023,Keyboard,Electronics,Hyderabad,2,1299,2598
+ORD-1190,5/18/2023,Keyboard,Electronics,Delhi,3,1299,3897
+ORD-1191,5/19/2023,Office Chair,Furniture,Mumbai,4,6999,27996
+ORD-1192,5/20/2023,Notebook,Stationery,Chennai,2,149,298
+ORD-1193,5/21/2023,Laptop Stand,Accessories,Pune,5,999,4995
+ORD-1194,5/21/2023,Wireless Mouse,Electronics,Chennai,5,799,3995
+ORD-1195,5/22/2023,Wireless Mouse,Electronics,Mumbai,4,799,3196
+ORD-1196,5/23/2023,Notebook,Stationery,Bangalore,1,149,149
+ORD-1197,5/23/2023,Wireless Mouse,Electronics,Pune,3,799,2397
+ORD-1198,5/24/2023,Keyboard,Electronics,Hyderabad,1,1299,1299
+ORD-1199,5/25/2023,Desk Lamp,Furniture,Pune,5,2499,12495
+ORD-1200,5/26/2023,Wireless Mouse,Electronics,Delhi,5,799,3995
+ORD-1201,5/26/2023,Laptop Stand,Accessories,Hyderabad,1,999,999
+ORD-1202,5/27/2023,Wireless Mouse,Electronics,Hyderabad,1,799,799
+ORD-1203,5/28/2023,USB Cable,Accessories,Hyderabad,1,299,299
+ORD-1204,5/29/2023,Notebook,Stationery,Bangalore,3,149,447
+ORD-1205,5/29/2023,Wireless Mouse,Electronics,Pune,4,799,3196
+ORD-1206,5/30/2023,Notebook,Stationery,Bangalore,1,149,149
+ORD-1207,5/31/2023,USB Cable,Accessories,Pune,1,299,299
+ORD-1208,5/31/2023,Pen Pack,Stationery,Bangalore,4,199,796
+ORD-1209,6/1/2023,Keyboard,Electronics,Chennai,5,1299,6495
+ORD-1210,6/2/2023,Laptop Stand,Accessories,Delhi,4,999,3996
+ORD-1211,6/3/2023,USB Cable,Accessories,Chennai,3,299,897
+ORD-1212,6/3/2023,USB Cable,Accessories,Delhi,5,299,1495
+ORD-1213,6/4/2023,Office Chair,Furniture,Chennai,5,6999,34995
+ORD-1214,6/5/2023,Keyboard,Electronics,Hyderabad,2,1299,2598
+ORD-1215,6/6/2023,Office Chair,Furniture,Chennai,2,6999,13998
+ORD-1216,6/6/2023,Laptop Stand,Accessories,Bangalore,5,999,4995
+ORD-1217,6/7/2023,Laptop Stand,Accessories,Pune,2,999,1998
+ORD-1218,6/8/2023,Wireless Mouse,Electronics,Mumbai,2,799,1598
+ORD-1219,6/9/2023,USB Cable,Accessories,Chennai,1,299,299
+ORD-1220,6/9/2023,Pen Pack,Stationery,Mumbai,5,199,995
+ORD-1221,6/10/2023,Wireless Mouse,Electronics,Bangalore,2,799,1598
+ORD-1222,6/11/2023,Keyboard,Electronics,Chennai,2,1299,2598
+ORD-1223,6/11/2023,Notebook,Stationery,Hyderabad,5,149,745
+ORD-1224,6/12/2023,Laptop Stand,Accessories,Delhi,5,999,4995
+ORD-1225,6/13/2023,Pen Pack,Stationery,Delhi,4,199,796
+ORD-1226,6/14/2023,Office Chair,Furniture,Chennai,1,6999,6999
+ORD-1227,6/14/2023,USB Cable,Accessories,Hyderabad,4,299,1196
+ORD-1228,6/15/2023,USB Cable,Accessories,Chennai,3,299,897
+ORD-1229,6/16/2023,USB Cable,Accessories,Mumbai,3,299,897
+ORD-1230,6/17/2023,Keyboard,Electronics,Hyderabad,3,1299,3897
+ORD-1231,6/17/2023,Laptop Stand,Accessories,Chennai,5,999,4995
+ORD-1232,6/18/2023,Keyboard,Electronics,Hyderabad,4,1299,5196
+ORD-1233,6/19/2023,Keyboard,Electronics,Pune,4,1299,5196
+ORD-1234,6/19/2023,Desk Lamp,Furniture,Delhi,5,2499,12495
+ORD-1235,6/20/2023,Office Chair,Furniture,Bangalore,1,6999,6999
+ORD-1236,6/21/2023,Notebook,Stationery,Hyderabad,4,149,596
+ORD-1237,6/22/2023,Wireless Mouse,Electronics,Delhi,4,799,3196
+ORD-1238,6/22/2023,Wireless Mouse,Electronics,Hyderabad,1,799,799
+ORD-1239,6/23/2023,Notebook,Stationery,Pune,2,149,298
+ORD-1240,6/24/2023,Notebook,Stationery,Chennai,5,149,745
+ORD-1241,6/25/2023,Office Chair,Furniture,Hyderabad,5,6999,34995
+ORD-1242,6/25/2023,Notebook,Stationery,Pune,3,149,447
+ORD-1243,6/26/2023,Notebook,Stationery,Bangalore,4,149,596
+ORD-1244,6/27/2023,Laptop Stand,Accessories,Delhi,4,999,3996
+ORD-1245,6/27/2023,Keyboard,Electronics,Delhi,1,1299,1299
+ORD-1246,6/28/2023,Pen Pack,Stationery,Chennai,1,199,199
+ORD-1247,6/29/2023,Pen Pack,Stationery,Delhi,3,199,597
+ORD-1248,6/30/2023,Laptop Stand,Accessories,Mumbai,4,999,3996
+ORD-1249,6/30/2023,Desk Lamp,Furniture,Pune,4,2499,9996
+ORD-1250,7/1/2023,Notebook,Stationery,Pune,2,149,298
+ORD-1251,7/2/2023,USB Cable,Accessories,Mumbai,2,299,598
+ORD-1252,7/3/2023,USB Cable,Accessories,Pune,2,299,598
+ORD-1253,7/3/2023,USB Cable,Accessories,Delhi,5,299,1495
+ORD-1254,7/4/2023,USB Cable,Accessories,Hyderabad,3,299,897
+ORD-1255,7/5/2023,Office Chair,Furniture,Delhi,1,6999,6999
+ORD-1256,7/6/2023,Wireless Mouse,Electronics,Pune,5,799,3995
+ORD-1257,7/6/2023,Notebook,Stationery,Chennai,4,149,596
+ORD-1258,7/7/2023,Notebook,Stationery,Chennai,3,149,447
+ORD-1259,7/8/2023,Pen Pack,Stationery,Bangalore,2,199,398
+ORD-1260,7/8/2023,Desk Lamp,Furniture,Delhi,5,2499,12495
+ORD-1261,7/9/2023,Keyboard,Electronics,Hyderabad,2,1299,2598
+ORD-1262,7/10/2023,Keyboard,Electronics,Chennai,3,1299,3897
+ORD-1263,7/11/2023,Notebook,Stationery,Hyderabad,1,149,149
+ORD-1264,7/11/2023,Wireless Mouse,Electronics,Delhi,2,799,1598
+ORD-1265,7/12/2023,Laptop Stand,Accessories,Mumbai,5,999,4995
+ORD-1266,7/13/2023,Office Chair,Furniture,Hyderabad,1,6999,6999
+ORD-1267,7/14/2023,Laptop Stand,Accessories,Delhi,3,999,2997
+ORD-1268,7/14/2023,Notebook,Stationery,Mumbai,1,149,149
+ORD-1269,7/15/2023,Wireless Mouse,Electronics,Delhi,3,799,2397
+ORD-1270,7/16/2023,Notebook,Stationery,Delhi,4,149,596
+ORD-1271,7/16/2023,Notebook,Stationery,Hyderabad,5,149,745
+ORD-1272,7/17/2023,Laptop Stand,Accessories,Chennai,5,999,4995
+ORD-1273,7/18/2023,Notebook,Stationery,Mumbai,5,149,745
+ORD-1274,7/19/2023,Keyboard,Electronics,Delhi,3,1299,3897
+ORD-1275,7/19/2023,Notebook,Stationery,Hyderabad,1,149,149
+ORD-1276,7/20/2023,Wireless Mouse,Electronics,Chennai,3,799,2397
+ORD-1277,7/21/2023,Notebook,Stationery,Hyderabad,4,149,596
+ORD-1278,7/22/2023,Wireless Mouse,Electronics,Mumbai,1,799,799
+ORD-1279,7/22/2023,USB Cable,Accessories,Mumbai,2,299,598
+ORD-1280,7/23/2023,Keyboard,Electronics,Bangalore,3,1299,3897
+ORD-1281,7/24/2023,Keyboard,Electronics,Delhi,4,1299,5196
+ORD-1282,7/24/2023,Pen Pack,Stationery,Chennai,4,199,796
+ORD-1283,7/25/2023,Pen Pack,Stationery,Delhi,3,199,597
+ORD-1284,7/26/2023,Wireless Mouse,Electronics,Chennai,5,799,3995
+ORD-1285,7/27/2023,Pen Pack,Stationery,Bangalore,2,199,398
+ORD-1286,7/27/2023,Laptop Stand,Accessories,Mumbai,4,999,3996
+ORD-1287,7/28/2023,Pen Pack,Stationery,Mumbai,2,199,398
+ORD-1288,7/29/2023,Keyboard,Electronics,Bangalore,3,1299,3897
+ORD-1289,7/30/2023,Office Chair,Furniture,Pune,2,6999,13998
+ORD-1290,7/30/2023,Wireless Mouse,Electronics,Pune,1,799,799
+ORD-1291,7/31/2023,Pen Pack,Stationery,Bangalore,2,199,398
+ORD-1292,8/1/2023,Wireless Mouse,Electronics,Chennai,5,799,3995
+ORD-1293,8/2/2023,USB Cable,Accessories,Delhi,2,299,598
+ORD-1294,8/2/2023,Keyboard,Electronics,Pune,1,1299,1299
+ORD-1295,8/3/2023,USB Cable,Accessories,Mumbai,5,299,1495
+ORD-1296,8/4/2023,Pen Pack,Stationery,Mumbai,5,199,995
+ORD-1297,8/4/2023,Notebook,Stationery,Bangalore,3,149,447
+ORD-1298,8/5/2023,Desk Lamp,Furniture,Bangalore,3,2499,7497
+ORD-1299,8/6/2023,Office Chair,Furniture,Bangalore,1,6999,6999
+ORD-1300,8/7/2023,Pen Pack,Stationery,Pune,4,199,796
+ORD-1301,8/7/2023,Desk Lamp,Furniture,Bangalore,1,2499,2499
+ORD-1302,8/8/2023,Desk Lamp,Furniture,Bangalore,3,2499,7497
+ORD-1303,8/9/2023,Notebook,Stationery,Chennai,2,149,298
+ORD-1304,8/10/2023,Keyboard,Electronics,Bangalore,3,1299,3897
+ORD-1305,8/10/2023,Notebook,Stationery,Mumbai,5,149,745
+ORD-1306,8/11/2023,USB Cable,Accessories,Chennai,2,299,598
+ORD-1307,8/12/2023,Pen Pack,Stationery,Hyderabad,5,199,995
+ORD-1308,8/12/2023,Wireless Mouse,Electronics,Delhi,5,799,3995
+ORD-1309,8/13/2023,USB Cable,Accessories,Hyderabad,2,299,598
+ORD-1310,8/14/2023,Keyboard,Electronics,Hyderabad,1,1299,1299
+ORD-1311,8/15/2023,Keyboard,Electronics,Bangalore,5,1299,6495
+ORD-1312,8/15/2023,Wireless Mouse,Electronics,Delhi,2,799,1598
+ORD-1313,8/16/2023,Office Chair,Furniture,Hyderabad,1,6999,6999
+ORD-1314,8/17/2023,Office Chair,Furniture,Chennai,3,6999,20997
+ORD-1315,8/18/2023,Wireless Mouse,Electronics,Pune,2,799,1598
+ORD-1316,8/18/2023,Wireless Mouse,Electronics,Bangalore,1,799,799
+ORD-1317,8/19/2023,Notebook,Stationery,Hyderabad,4,149,596
+ORD-1318,8/20/2023,Pen Pack,Stationery,Pune,2,199,398
+ORD-1319,8/20/2023,Office Chair,Furniture,Chennai,2,6999,13998
+ORD-1320,8/21/2023,Keyboard,Electronics,Bangalore,3,1299,3897
+ORD-1321,8/22/2023,Office Chair,Furniture,Hyderabad,3,6999,20997
+ORD-1322,8/23/2023,Laptop Stand,Accessories,Chennai,4,999,3996
+ORD-1323,8/23/2023,Keyboard,Electronics,Hyderabad,2,1299,2598
+ORD-1324,8/24/2023,Laptop Stand,Accessories,Delhi,3,999,2997
+ORD-1325,8/25/2023,Office Chair,Furniture,Pune,5,6999,34995
+ORD-1326,8/26/2023,Keyboard,Electronics,Delhi,1,1299,1299
+ORD-1327,8/26/2023,Office Chair,Furniture,Hyderabad,2,6999,13998
+ORD-1328,8/27/2023,USB Cable,Accessories,Delhi,1,299,299
+ORD-1329,8/28/2023,Notebook,Stationery,Delhi,4,149,596
+ORD-1330,8/28/2023,USB Cable,Accessories,Bangalore,2,299,598
+ORD-1331,8/29/2023,Wireless Mouse,Electronics,Mumbai,5,799,3995
+ORD-1332,8/30/2023,Office Chair,Furniture,Hyderabad,4,6999,27996
+ORD-1333,8/31/2023,Keyboard,Electronics,Pune,1,1299,1299
+ORD-1334,8/31/2023,Laptop Stand,Accessories,Delhi,2,999,1998
+ORD-1335,9/1/2023,Notebook,Stationery,Mumbai,4,149,596
+ORD-1336,9/2/2023,Desk Lamp,Furniture,Bangalore,2,2499,4998
+ORD-1337,9/3/2023,Desk Lamp,Furniture,Chennai,3,2499,7497
+ORD-1338,9/3/2023,Pen Pack,Stationery,Delhi,5,199,995
+ORD-1339,9/4/2023,Wireless Mouse,Electronics,Hyderabad,5,799,3995
+ORD-1340,9/5/2023,Notebook,Stationery,Hyderabad,4,149,596
+ORD-1341,9/6/2023,Laptop Stand,Accessories,Bangalore,1,999,999
+ORD-1342,9/6/2023,Laptop Stand,Accessories,Pune,5,999,4995
+ORD-1343,9/7/2023,Desk Lamp,Furniture,Pune,2,2499,4998
+ORD-1344,9/8/2023,USB Cable,Accessories,Pune,3,299,897
+ORD-1345,9/8/2023,Office Chair,Furniture,Hyderabad,1,6999,6999
+ORD-1346,9/9/2023,Desk Lamp,Furniture,Hyderabad,3,2499,7497
+ORD-1347,9/10/2023,Wireless Mouse,Electronics,Bangalore,2,799,1598
+ORD-1348,9/11/2023,Desk Lamp,Furniture,Bangalore,2,2499,4998
+ORD-1349,9/11/2023,Notebook,Stationery,Chennai,4,149,596
+ORD-1350,9/12/2023,Pen Pack,Stationery,Hyderabad,2,199,398
+ORD-1351,9/13/2023,USB Cable,Accessories,Pune,3,299,897
+ORD-1352,9/14/2023,Wireless Mouse,Electronics,Delhi,4,799,3196
+ORD-1353,9/14/2023,USB Cable,Accessories,Mumbai,1,299,299
+ORD-1354,9/15/2023,Pen Pack,Stationery,Hyderabad,5,199,995
+ORD-1355,9/16/2023,Laptop Stand,Accessories,Chennai,4,999,3996
+ORD-1356,9/16/2023,Laptop Stand,Accessories,Delhi,3,999,2997
+ORD-1357,9/17/2023,Pen Pack,Stationery,Mumbai,2,199,398
+ORD-1358,9/18/2023,Notebook,Stationery,Pune,2,149,298
+ORD-1359,9/19/2023,Keyboard,Electronics,Mumbai,5,1299,6495
+ORD-1360,9/19/2023,USB Cable,Accessories,Chennai,1,299,299
+ORD-1361,9/20/2023,Wireless Mouse,Electronics,Delhi,1,799,799
+ORD-1362,9/21/2023,Laptop Stand,Accessories,Hyderabad,3,999,2997
+ORD-1363,9/22/2023,Office Chair,Furniture,Chennai,1,6999,6999
+ORD-1364,9/22/2023,Pen Pack,Stationery,Pune,4,199,796
+ORD-1365,9/23/2023,Keyboard,Electronics,Bangalore,5,1299,6495
+ORD-1366,9/24/2023,Wireless Mouse,Electronics,Pune,2,799,1598
+ORD-1367,9/24/2023,Laptop Stand,Accessories,Delhi,3,999,2997
+ORD-1368,9/25/2023,Desk Lamp,Furniture,Chennai,4,2499,9996
+ORD-1369,9/26/2023,Desk Lamp,Furniture,Delhi,3,2499,7497
+ORD-1370,9/27/2023,Notebook,Stationery,Hyderabad,4,149,596
+ORD-1371,9/27/2023,Laptop Stand,Accessories,Chennai,5,999,4995
+ORD-1372,9/28/2023,Notebook,Stationery,Bangalore,3,149,447
+ORD-1373,9/29/2023,Pen Pack,Stationery,Hyderabad,2,199,398
+ORD-1374,9/30/2023,USB Cable,Accessories,Chennai,1,299,299
+ORD-1375,9/30/2023,Keyboard,Electronics,Mumbai,1,1299,1299
+ORD-1376,10/1/2023,Desk Lamp,Furniture,Chennai,3,2499,7497
+ORD-1377,10/2/2023,Pen Pack,Stationery,Delhi,1,199,199
+ORD-1378,10/3/2023,Wireless Mouse,Electronics,Delhi,1,799,799
+ORD-1379,10/3/2023,Office Chair,Furniture,Hyderabad,2,6999,13998
+ORD-1380,10/4/2023,Notebook,Stationery,Bangalore,3,149,447
+ORD-1381,10/5/2023,Pen Pack,Stationery,Bangalore,3,199,597
+ORD-1382,10/5/2023,Desk Lamp,Furniture,Pune,2,2499,4998
+ORD-1383,10/6/2023,Office Chair,Furniture,Delhi,5,6999,34995
+ORD-1384,10/7/2023,USB Cable,Accessories,Pune,3,299,897
+ORD-1385,10/8/2023,Notebook,Stationery,Delhi,1,149,149
+ORD-1386,10/8/2023,Notebook,Stationery,Bangalore,5,149,745
+ORD-1387,10/9/2023,Office Chair,Furniture,Hyderabad,1,6999,6999
+ORD-1388,10/10/2023,USB Cable,Accessories,Mumbai,2,299,598
+ORD-1389,10/11/2023,Notebook,Stationery,Mumbai,3,149,447
+ORD-1390,10/11/2023,Wireless Mouse,Electronics,Pune,5,799,3995
+ORD-1391,10/12/2023,Notebook,Stationery,Chennai,4,149,596
+ORD-1392,10/13/2023,Desk Lamp,Furniture,Chennai,5,2499,12495
+ORD-1393,10/13/2023,Office Chair,Furniture,Pune,4,6999,27996
+ORD-1394,10/14/2023,Notebook,Stationery,Bangalore,2,149,298
+ORD-1395,10/15/2023,Office Chair,Furniture,Bangalore,3,6999,20997
+ORD-1396,10/16/2023,USB Cable,Accessories,Mumbai,4,299,1196
+ORD-1397,10/16/2023,Laptop Stand,Accessories,Chennai,3,999,2997
+ORD-1398,10/17/2023,USB Cable,Accessories,Hyderabad,3,299,897
+ORD-1399,10/18/2023,Keyboard,Electronics,Hyderabad,2,1299,2598
+ORD-1400,10/19/2023,Laptop Stand,Accessories,Mumbai,4,999,3996
+ORD-1401,10/19/2023,Notebook,Stationery,Delhi,2,149,298
+ORD-1402,10/20/2023,Wireless Mouse,Electronics,Bangalore,4,799,3196
+ORD-1403,10/21/2023,USB Cable,Accessories,Pune,4,299,1196
+ORD-1404,10/21/2023,Desk Lamp,Furniture,Chennai,4,2499,9996
+ORD-1405,10/22/2023,Desk Lamp,Furniture,Mumbai,5,2499,12495
+ORD-1406,10/23/2023,Wireless Mouse,Electronics,Mumbai,4,799,3196
+ORD-1407,10/24/2023,Wireless Mouse,Electronics,Chennai,3,799,2397
+ORD-1408,10/24/2023,Pen Pack,Stationery,Hyderabad,1,199,199
+ORD-1409,10/25/2023,Laptop Stand,Accessories,Hyderabad,1,999,999
+ORD-1410,10/26/2023,Notebook,Stationery,Mumbai,5,149,745
+ORD-1411,10/27/2023,Pen Pack,Stationery,Hyderabad,4,199,796
+ORD-1412,10/27/2023,Office Chair,Furniture,Delhi,1,6999,6999
+ORD-1413,10/28/2023,Office Chair,Furniture,Chennai,3,6999,20997
+ORD-1414,10/29/2023,Office Chair,Furniture,Chennai,1,6999,6999
+ORD-1415,10/29/2023,Wireless Mouse,Electronics,Pune,2,799,1598
+ORD-1416,10/30/2023,Wireless Mouse,Electronics,Mumbai,5,799,3995
+ORD-1417,10/31/2023,Wireless Mouse,Electronics,Pune,3,799,2397
+ORD-1418,11/1/2023,Wireless Mouse,Electronics,Bangalore,2,799,1598
+ORD-1419,11/1/2023,Pen Pack,Stationery,Mumbai,2,199,398
+ORD-1420,11/2/2023,Laptop Stand,Accessories,Bangalore,2,999,1998
+ORD-1421,11/3/2023,Wireless Mouse,Electronics,Bangalore,3,799,2397
+ORD-1422,11/4/2023,USB Cable,Accessories,Bangalore,3,299,897
+ORD-1423,11/4/2023,Pen Pack,Stationery,Pune,1,199,199
+ORD-1424,11/5/2023,Pen Pack,Stationery,Delhi,5,199,995
+ORD-1425,11/6/2023,Wireless Mouse,Electronics,Bangalore,5,799,3995
+ORD-1426,11/7/2023,Pen Pack,Stationery,Pune,2,199,398
+ORD-1427,11/7/2023,Keyboard,Electronics,Delhi,5,1299,6495
+ORD-1428,11/8/2023,Office Chair,Furniture,Pune,1,6999,6999
+ORD-1429,11/9/2023,Wireless Mouse,Electronics,Pune,1,799,799
+ORD-1430,11/9/2023,Pen Pack,Stationery,Chennai,4,199,796
+ORD-1431,11/10/2023,Desk Lamp,Furniture,Delhi,1,2499,2499
+ORD-1432,11/11/2023,Desk Lamp,Furniture,Hyderabad,5,2499,12495
+ORD-1433,11/12/2023,Office Chair,Furniture,Bangalore,3,6999,20997
+ORD-1434,11/12/2023,Desk Lamp,Furniture,Hyderabad,3,2499,7497
+ORD-1435,11/13/2023,Desk Lamp,Furniture,Delhi,5,2499,12495
+ORD-1436,11/14/2023,Notebook,Stationery,Hyderabad,5,149,745
+ORD-1437,11/15/2023,Desk Lamp,Furniture,Mumbai,3,2499,7497
+ORD-1438,11/15/2023,Wireless Mouse,Electronics,Mumbai,3,799,2397
+ORD-1439,11/16/2023,Keyboard,Electronics,Delhi,4,1299,5196
+ORD-1440,11/17/2023,Keyboard,Electronics,Pune,3,1299,3897
+ORD-1441,11/17/2023,Wireless Mouse,Electronics,Bangalore,5,799,3995
+ORD-1442,11/18/2023,Desk Lamp,Furniture,Mumbai,2,2499,4998
+ORD-1443,11/19/2023,Laptop Stand,Accessories,Pune,2,999,1998
+ORD-1444,11/20/2023,Wireless Mouse,Electronics,Mumbai,4,799,3196
+ORD-1445,11/20/2023,Office Chair,Furniture,Delhi,5,6999,34995
+ORD-1446,11/21/2023,Wireless Mouse,Electronics,Bangalore,3,799,2397
+ORD-1447,11/22/2023,Office Chair,Furniture,Hyderabad,5,6999,34995
+ORD-1448,11/23/2023,Wireless Mouse,Electronics,Bangalore,5,799,3995
+ORD-1449,11/23/2023,Laptop Stand,Accessories,Pune,1,999,999
+ORD-1450,11/24/2023,Office Chair,Furniture,Bangalore,2,6999,13998
+ORD-1451,11/25/2023,Desk Lamp,Furniture,Pune,3,2499,7497
+ORD-1452,11/25/2023,USB Cable,Accessories,Hyderabad,5,299,1495
+ORD-1453,11/26/2023,Notebook,Stationery,Mumbai,2,149,298
+ORD-1454,11/27/2023,Office Chair,Furniture,Chennai,1,6999,6999
+ORD-1455,11/28/2023,Laptop Stand,Accessories,Bangalore,5,999,4995
+ORD-1456,11/28/2023,USB Cable,Accessories,Pune,5,299,1495
+ORD-1457,11/29/2023,Keyboard,Electronics,Delhi,2,1299,2598
+ORD-1458,11/30/2023,Office Chair,Furniture,Pune,5,6999,34995
+ORD-1459,12/1/2023,Laptop Stand,Accessories,Mumbai,2,999,1998
+ORD-1460,12/1/2023,Laptop Stand,Accessories,Pune,4,999,3996
+ORD-1461,12/2/2023,Notebook,Stationery,Hyderabad,5,149,745
+ORD-1462,12/3/2023,Desk Lamp,Furniture,Mumbai,1,2499,2499
+ORD-1463,12/4/2023,Notebook,Stationery,Bangalore,4,149,596
+ORD-1464,12/4/2023,USB Cable,Accessories,Hyderabad,2,299,598
+ORD-1465,12/5/2023,USB Cable,Accessories,Mumbai,1,299,299
+ORD-1466,12/6/2023,Pen Pack,Stationery,Hyderabad,3,199,597
+ORD-1467,12/6/2023,Office Chair,Furniture,Mumbai,1,6999,6999
+ORD-1468,12/7/2023,Laptop Stand,Accessories,Hyderabad,1,999,999
+ORD-1469,12/8/2023,Wireless Mouse,Electronics,Chennai,2,799,1598
+ORD-1470,12/9/2023,Wireless Mouse,Electronics,Hyderabad,1,799,799
+ORD-1471,12/9/2023,Pen Pack,Stationery,Hyderabad,3,199,597
+ORD-1472,12/10/2023,USB Cable,Accessories,Mumbai,2,299,598
+ORD-1473,12/11/2023,Notebook,Stationery,Mumbai,5,149,745
+ORD-1474,12/12/2023,Office Chair,Furniture,Bangalore,5,6999,34995
+ORD-1475,12/12/2023,Pen Pack,Stationery,Chennai,2,199,398
+ORD-1476,12/13/2023,Keyboard,Electronics,Delhi,4,1299,5196
+ORD-1477,12/14/2023,Pen Pack,Stationery,Delhi,2,199,398
+ORD-1478,12/14/2023,Notebook,Stationery,Hyderabad,1,149,149
+ORD-1479,12/15/2023,Keyboard,Electronics,Chennai,4,1299,5196
+ORD-1480,12/16/2023,Keyboard,Electronics,Bangalore,5,1299,6495
+ORD-1481,12/17/2023,Wireless Mouse,Electronics,Mumbai,3,799,2397
+ORD-1482,12/17/2023,USB Cable,Accessories,Delhi,5,299,1495
+ORD-1483,12/18/2023,Notebook,Stationery,Chennai,2,149,298
+ORD-1484,12/19/2023,Wireless Mouse,Electronics,Chennai,2,799,1598
+ORD-1485,12/20/2023,USB Cable,Accessories,Hyderabad,2,299,598
+ORD-1486,12/20/2023,Desk Lamp,Furniture,Pune,2,2499,4998
+ORD-1487,12/21/2023,Pen Pack,Stationery,Delhi,3,199,597
+ORD-1488,12/22/2023,Laptop Stand,Accessories,Pune,5,999,4995
+ORD-1489,12/22/2023,Laptop Stand,Accessories,Chennai,2,999,1998
+ORD-1490,12/23/2023,Notebook,Stationery,Bangalore,3,149,447
+ORD-1491,12/24/2023,Desk Lamp,Furniture,Delhi,4,2499,9996
+ORD-1492,12/25/2023,Laptop Stand,Accessories,Hyderabad,3,999,2997
+ORD-1493,12/25/2023,Keyboard,Electronics,Delhi,5,1299,6495
+ORD-1494,12/26/2023,Keyboard,Electronics,Pune,4,1299,5196
+ORD-1495,12/27/2023,Laptop Stand,Accessories,Pune,3,999,2997
+ORD-1496,12/28/2023,Laptop Stand,Accessories,Hyderabad,1,999,999
+ORD-1497,12/28/2023,Laptop Stand,Accessories,Bangalore,5,999,4995
+ORD-1498,12/29/2023,Keyboard,Electronics,Mumbai,1,1299,1299
+ORD-1499,12/30/2023,Keyboard,Electronics,Delhi,5,1299,6495
+ORD-1500,12/31/2023,Wireless Mouse,Electronics,Delhi,1,799,799
